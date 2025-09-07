@@ -1,5 +1,19 @@
 # 📘 MLOps Workflow: From Raw Data to Production Model
 
+<p align="right">
+  <svg width="360" height="120" viewBox="0 0 360 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="SrinathMLOps watermark">
+    <defs>
+      <linearGradient id="wmGrad" x1="0%" y1="100%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#000" stop-opacity="0.05"/>
+        <stop offset="100%" stop-color="#000" stop-opacity="0.10"/>
+      </linearGradient>
+    </defs>
+    <text x="0" y="110" transform="rotate(-30 0 110)" fill="url(#wmGrad)" font-size="40" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" letter-spacing="1">
+      SrinathMLOps
+    </text>
+  </svg>
+</p>
+
 A comprehensive guide to implementing Machine Learning Operations (MLOps) workflows using Python, Pandas, and modern deployment practices.
 
 ## 🎯 Overview
